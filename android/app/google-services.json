@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840495139631",
+    "project_id": "ecommerce-5fb3b",
+    "storage_bucket": "ecommerce-5fb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840495139631:android:29c91e6c39c44cf0022fda",
+        "android_client_info": {
+          "package_name": "com.sliit.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAiT1k5eNXKHuT3zM2vn1flCnxh4Kc0lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
